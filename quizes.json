@@ -63,6 +63,66 @@
             "isCorrect": false
           }
         ]
+      },
+      {
+        "id": 3,
+        "text": "What is 7 + 6?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "14",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "13",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "15",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What is the square of 5?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "25",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "30",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "15",
+            "isCorrect": false
+          }
+        ]
       }
     ]
   },
@@ -97,6 +157,96 @@
             "id": 4,
             "label": "D",
             "text": "Cytosol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What is the basic unit of life?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Atom",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Molecule",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Cell",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Tissue",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "What is the powerhouse of the cell?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Mitochondria",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Cytoplasm",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Endoplasmic Reticulum",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Which of these is a type of asexual reproduction?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Binary Fission",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Fertilization",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Crossing Over",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Pollination",
             "isCorrect": false
           }
         ]
@@ -137,151 +287,93 @@
             "isCorrect": false
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Football_iu_1996.jpg",
-    "name": "Sport",
-    "questions": [
+      },
       {
-        "id": 1,
-        "text": "How many players are on a soccer team?",
+        "id": 2,
+        "text": "What is the atomic number of Oxygen?",
         "options": [
           {
             "id": 1,
             "label": "A",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
             "text": "10",
             "isCorrect": false
           },
           {
-            "id": 2,
-            "label": "B",
-            "text": "11",
-            "isCorrect": true
-          },
-          {
-            "id": 3,
-            "label": "C",
+            "id": 4,
+            "label": "D",
             "text": "12",
             "isCorrect": false
-          },
-          {
-            "id": 4,
-            "label": "D",
-            "text": "9",
-            "isCorrect": false
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "img": "https://cdn.pixabay.com/photo/2015/07/17/22/43/coding-849805_960_720.jpg",
-    "name": "Technology",
-    "questions": [
+      },
       {
-        "id": 1,
-        "text": "What does HTML stand for?",
+        "id": 3,
+        "text": "What is the pH level of water?",
         "options": [
           {
             "id": 1,
             "label": "A",
-            "text": "HyperText Markup Language",
+            "text": "7",
             "isCorrect": true
           },
           {
             "id": 2,
             "label": "B",
-            "text": "HighText Machine Language",
+            "text": "6",
             "isCorrect": false
           },
           {
             "id": 3,
             "label": "C",
-            "text": "Hyperlink Markup Language",
+            "text": "8",
             "isCorrect": false
           },
           {
             "id": 4,
             "label": "D",
-            "text": "HomeTool Markup Language",
+            "text": "5",
             "isCorrect": false
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "img": "https://cdn.pixabay.com/photo/2016/12/26/16/56/literature-1937433_960_720.jpg",
-    "name": "Literature",
-    "questions": [
+      },
       {
-        "id": 1,
-        "text": "Who wrote 'Pride and Prejudice'?",
+        "id": 4,
+        "text": "Which gas do plants absorb during photosynthesis?",
         "options": [
           {
             "id": 1,
             "label": "A",
-            "text": "Jane Austen",
-            "isCorrect": true
-          },
-          {
-            "id": 2,
-            "label": "B",
-            "text": "Emily Bronte",
-            "isCorrect": false
-          },
-          {
-            "id": 3,
-            "label": "C",
-            "text": "Charlotte Bronte",
-            "isCorrect": false
-          },
-          {
-            "id": 4,
-            "label": "D",
-            "text": "George Eliot",
-            "isCorrect": false
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "img": "https://cdn.pixabay.com/photo/2015/11/19/21/14/space-1056413_960_720.jpg",
-    "name": "Astronomy",
-    "questions": [
-      {
-        "id": 1,
-        "text": "What is the largest planet in our solar system?",
-        "options": [
-          {
-            "id": 1,
-            "label": "A",
-            "text": "Earth",
+            "text": "Oxygen",
             "isCorrect": false
           },
           {
             "id": 2,
             "label": "B",
-            "text": "Jupiter",
-            "isCorrect": true
+            "text": "Nitrogen",
+            "isCorrect": false
           },
           {
             "id": 3,
             "label": "C",
-            "text": "Saturn",
-            "isCorrect": false
+            "text": "Carbon Dioxide",
+            "isCorrect": true
           },
           {
             "id": 4,
             "label": "D",
-            "text": "Neptune",
+            "text": "Argon",
             "isCorrect": false
           }
         ]
