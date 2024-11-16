@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+    "name": "Math",
+    "questions": [
+      {
+        "id": 1,
+        "text": "8 ÷ 2(2 + 2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "sqrt(64) * 9",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "72",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "144",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+    "name": "Biology",
+    "questions": [
+      {
+        "id": 1,
+        "text": "The Kreb Cycle occurs in the",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mitochondria",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Rough ER",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Cytosol",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+    "name": "Chemistry",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the composition of table salt",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "K2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "NaCl2C4H7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CH4",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Football_iu_1996.jpg",
+    "name": "Sport",
+    "questions": [
+      {
+        "id": 1,
+        "text": "How many players are on a soccer team?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "11",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "9",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://cdn.pixabay.com/photo/2015/07/17/22/43/coding-849805_960_720.jpg",
+    "name": "Technology",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What does HTML stand for?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "HyperText Markup Language",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "HighText Machine Language",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Hyperlink Markup Language",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "HomeTool Markup Language",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://cdn.pixabay.com/photo/2016/12/26/16/56/literature-1937433_960_720.jpg",
+    "name": "Literature",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Who wrote 'Pride and Prejudice'?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Jane Austen",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Emily Bronte",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Charlotte Bronte",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "George Eliot",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "https://cdn.pixabay.com/photo/2015/11/19/21/14/space-1056413_960_720.jpg",
+    "name": "Astronomy",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the largest planet in our solar system?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Earth",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Jupiter",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Saturn",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Neptune",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
