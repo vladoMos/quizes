@@ -361,19 +361,400 @@
           {
             "id": 2,
             "label": "B",
+            "text": "Carbon Dioxide",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
             "text": "Nitrogen",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hydrogen",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://www.sciencedaily.com/images/2007/12/071211145400_1_540x360.jpg",
+    "name": "Sport",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Who won the 2018 FIFA World Cup?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Germany",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "France",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Argentina",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Brazil",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Who holds the record for most Olympic gold medals?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Michael Phelps",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Usain Bolt",
             "isCorrect": false
           },
           {
             "id": 3,
             "label": "C",
-            "text": "Carbon Dioxide",
-            "isCorrect": true
+            "text": "Simone Biles",
+            "isCorrect": false
           },
           {
             "id": 4,
             "label": "D",
-            "text": "Argon",
+            "text": "Carl Lewis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Which country is known as the birthplace of the Olympic Games?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "France",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Greece",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Italy",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Egypt",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Which sport is known as 'the king of sports'?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Basketball",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Football (Soccer)",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Tennis",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rugby",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://img.lovepik.com/photo/40011/4971.jpg",
+    "name": "History",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Who was the first president of the United States?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "George Washington",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Thomas Jefferson",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Abraham Lincoln",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Andrew Jackson",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Who was the leader of the Nazi party during World War II?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Joseph Stalin",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Adolf Hitler",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Winston Churchill",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Franklin D. Roosevelt",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Which empire was known for its use of gladiators?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Roman Empire",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ottoman Empire",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Greek Empire",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Mongol Empire",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Amelia Earhart",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Harriet Tubman",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Eleanor Roosevelt",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Clara Barton",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://media.istockphoto.com/id/1345613452/photo/open-book.jpg?s=1024x1024&w=is&k=20&c=2lxsHqkRjmwJ5tygbccQ2ZkJtSTdMk8QjTcREoP1Wxo=",
+    "name": "Literature",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Who wrote 'To Kill a Mockingbird'?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Harper Lee",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Mark Twain",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Ernest Hemingway",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "F. Scott Fitzgerald",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Who wrote '1984'?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "George Orwell",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Aldous Huxley",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Ray Bradbury",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Philip K. Dick",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "What is the main theme of 'The Great Gatsby'?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The American Dream",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "War and Peace",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Love and Betrayal",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "The Fall of Society",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Who wrote 'The Catcher in the Rye'?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "J.D. Salinger",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "J.K. Rowling",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "John Steinbeck",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Harper Lee",
             "isCorrect": false
           }
         ]
